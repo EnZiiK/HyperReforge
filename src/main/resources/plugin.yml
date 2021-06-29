@@ -1,0 +1,11 @@
+name: HyperReforge
+version: 1.0.0
+description: An HyperReforge plugin
+main: me.reb4ck.hyperreforge.HyperReforge
+api-version: '1.13'
+author: Reb4ck
+load: POSTWORLD
+softdepend: [HyperEnchants]
+commands:
+  hyperreforge:
+    description: Main plugin command
